@@ -28,7 +28,7 @@ while (!feof($fh)) {
     // don't forget to add your developer key below. Failure to do so
     // can result in script errors when the file_get_contents fails.
 
-    $xmlFile = file_get_contents('https://maps.googleapis.com/maps/api/geocode/xml?address=' . $addrToCheck . '&sensor=false&key=AIzaSyASuOY4JMHLEHl1_QFk_wCjT87yAuMXSas', false, $context);
+    $xmlFile = file_get_contents('https://maps.googleapis.com/maps/api/geocode/xml?address=' . $addrToCheck . '&sensor=false&key=(Google developer key)', false, $context);
     $data = new SimpleXMLElement($xmlFile);
 
     if ($data->status == "OK") {
