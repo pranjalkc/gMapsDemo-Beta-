@@ -1,0 +1,65 @@
+1,35,East 21st Street and Concession Street,8 East 21st Street,City of Hamilton,-79.8533379138,43.2408159797
+2,1,John Street North and Rebecca Street,76 John Street North,City of Hamilton,-79.8659057994,43.2569984768
+3,10A,Wilson Street East,"334-336 Wilson Street East, Ancaster",City of Hamilton,-79.9764973908,43.2263049932
+4,11,Main Street East and Garside Avenue North,1457 Main Street East,City of Hamilton,-79.8079283105,43.2400405267
+5,11W,Dundas Street East,"319 Dundas Street East, Waterdown",City of Hamilton,-79.8922868694,43.3340536894
+6,13,Wilson Street and James Street North,96 James Street North,City of Hamilton,-79.8678335335,43.2591039771
+7,16,Main Street East and Balmoral Avenue North,53 Balmoral Avenue North,City of Hamilton,-79.8217803496,43.2436253427
+8,17,Main Street East and Huxley Avenue South,1358 Main Street East,City of Hamilton,-79.8122287373,43.2408117507
+9,19,Main Street East and Ottawa Street North,1203 Main Street East,City of Hamilton,-79.8191366930,43.2425305634
+10,20,Upper James Street and Brantdale Avenue,552 Upper James Street,City of Hamilton,-79.8770088242,43.2405913742
+11,21,Main Street East and Tuxedo Avenue North,1375 Main Street East,City of Hamilton,-79.8112483773,43.2408048754
+12,22,King Street West and Locke Street South,451 King Street West,City of Hamilton,-79.8828203357,43.2605415406
+14,2B,Ottawa Street North,116 Campbell Avenue,City of Hamilton,-79.8164260792,43.2493578097
+15,2C,Ottawa Street North,11 Britannia Avenue,City of Hamilton,-79.8166242341,43.2486962569
+16,2D,Ottawa Street North,18 Britannia Avenue,City of Hamilton,-79.8167808138,43.2480129129
+17,3,Mountain Avenue South,"14 Mountain Avenue, Stoney Creek",City of Hamilton,-79.7580680324,43.2165914733
+18,32,East Avenue North and Barton Street East,255 East Avenue North,City of Hamilton,-79.8522346852,43.2604350306
+51,80,Bay Street South and King Street West,22 Bay Street South,City of Hamilton,-79.8746108944,43.2572975059
+52,81,Ferguson Avenue North,11 Ferguson Avenue North,City of Hamilton,-79.8616396256,43.2548113797
+53,82,Victoria Avenue North and Barton Street East,294 Victoria Avenue North,City of Hamilton,-79.8529408162,43.2614755665
+54,84,Kenilworth Avenue North and Albany Avenue,36 Newlands Avenue,City of Hamilton,-79.8074010195,43.2480426493
+55,9,Upper Wellington Street,584 Upper Wellington Street,City of Hamilton,-79.8675314791,43.2381125275
+56,2DU,Post Office,"8 Foundry Street, Dundas",City of Hamilton,-79.9581603004,43.2661302331
+57,3DU,Canada Trust,"82 King Street West, Dundas",City of Hamilton,-79.9576196691,43.2656036731
+58,1DU,Booth Street,"45 King Street West, Dundas",City of Hamilton,-79.9556428293,43.2663996435
+59,4DU,Royal Bank,"48-70 King Street West, Dundas",City of Hamilton,-79.9568160409,43.2653920513
+60,7DU,Hatt Street,"23 Hatt Street, Dundas",City of Hamilton,-79.9560466586,43.2651942800
+61,5DU,Golden Valley,"93-111 King Street West, Dundas",City of Hamilton,-79.9582486916,43.2673069157
+62,6DU,Coach House,"85 King Street West, Dundas",City of Hamilton,-79.9575188823,43.2672541051
+63,9DU,Bank Of Montreal,"77 King Street West, Dundas",City of Hamilton,-79.9566711702,43.2666998529
+64,58,Barton Street East and Harmony Avenue,1368 Barton Street East,City of Hamilton,-79.8046754937,43.2484702212
+65,6,Rosedale Drive and King Street,Rosedale Drive,City of Hamilton,-79.7530688265,43.2169187905
+102,2A,Ottawa Street North,115 Campbell Avenue,City of Hamilton,-79.8159474837,43.2504983355
+19,36,Mulberry Street,22 Mulberry Street,City of Hamilton,-79.8679677304,43.2620960244
+20,37,Convention Centre and C65,80 Main Street West,City of Hamilton,-79.8731840076,43.2563267379
+21,33,Upper James Street and Genesse Street,15 Brucedale Avenue West,City of Hamilton,-79.8781775370,43.2388420391
+22,39B,Barton Street East and Grosvenor Avenue North,309 Grosvenor Avenue North,City of Hamilton,-79.8178643249,43.2513594570
+23,39C,Barton Street East and Grosvenor Avenue North,203 Balmoral Avenue North,City of Hamilton,-79.8182858433,43.2514674112
+24,39D,Bartion Street East and Grosvenor Avenue North,299 Balmoral Avenue North,City of Hamilton,-79.8188928568,43.2515826030
+25,34,Main Street East and Cope Street,1503 Main Street East,City of Hamilton,-79.8056391645,43.2394719061
+26,4,Kenilworth Avenue North and Harmony Avenue,70 Hope Street,City of Hamilton,-79.8064964522,43.2469828672
+27,40,City Hall,71 Main Street West,City of Hamilton,-79.8733852661,43.2551539685
+28,42,Barton Street East and Birch Avenue,346 Barton Street East,City of Hamilton,-79.8401913470,43.2573940042
+29,43,Kenilworth Avenue North and Newlands Avenue,268 Kenwilworth Avenue North,City of Hamilton,-79.8063817743,43.2483899233
+30,44,Barton Street East and Emerald Street North,346 Barton Street East,City of Hamilton,-79.8509513436,43.2600208767
+31,45,Barton Street East,540 Barton Street East,City of Hamilton,-79.8428207675,43.2581765019
+32,46,Barton Street East and William Street,14 Cheever Street/11 William Street,City of Hamilton,-79.8469492413,43.2599005375
+33,47,Barton Street East and Barnesdale Avenue North,735 Barton Street East,City of Hamilton,-79.8334483429,43.2561706173
+34,49,Barton Street West and Caroline Street North,167 Barton Street West,City of Hamilton,-79.8733503293,43.2658768362
+35,5,King William Street and Mary Street,140 King William Street,City of Hamilton,-79.8637477885,43.2559462023
+36,50,Cannon Street East and Birch Avenue,625 Wilson Street,City of Hamilton,-79.8410090255,43.2548844520
+37,56,Main Street East and Emerald Street South,30 Emerald Street Sout,City of Hamilton,-79.8547937537,43.2519395990
+38,62,Vine Street,14 Vine Street,City of Hamilton,-79.8684302517,43.2600564777
+39,64,Sherman Avenue North,168 Sherman Avenue North,City of Hamilton,-79.8358455016,43.2568738213
+40,66,Bay Street North and Cannon Street West,106 Bay Street North,City of Hamilton,-79.8723358205,43.2611503884
+41,68,Eaton Centre Parkade,28 York Boulevard,City of Hamilton,-79.8685239377,43.2598876337
+42,7,Main Street East and Ferguson Avenue South,171 Main Street East,City of Hamilton,-79.8624075469,43.2540275256
+43,69,York Boulevard Parkette,12 York Boulevard,City of Hamilton,-79.8687025355,43.2594595331
+44,70,Hughson Street North,207 Hughson Street North,City of Hamilton,-79.8651187518,43.2626214584
+45,72,East Avenue North and King Street East,11 East Avenue North,City of Hamilton,-79.8553934379,43.2534265154
+46,73,King William Street and Wellington Street North,253 King William Street,City of Hamilton,-79.8590160556,43.2549890727
+47,74,King Street West and Hess Street South,263 King Street West,City of Hamilton,-79.8770226926,43.2587874081
+48,76,Catharine Street South and Hunter Street East,75 Catherine Street Sout,City of Hamilton,-79.8662652887,43.2530690907
+49,79,Barton Street East,402 Barton Street East,City of Hamilton,-79.8483623368,43.2596552428
+50,8,King Street East and Jarvis Street,297 King Street East,City of Hamilton,-79.8605151594,43.2543131614
